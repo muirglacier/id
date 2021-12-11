@@ -1,6 +1,6 @@
 package id
 
-import "github.com/renproject/surge"
+import "github.com/muirglacier/surge"
 
 // Content defines an interface for hash-addressable data. Content must be able
 // to represent itself in binary, and must expose a way to acquire a unique hash

@@ -8,8 +8,8 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/renproject/id"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/id"
+	"github.com/muirglacier/surge"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

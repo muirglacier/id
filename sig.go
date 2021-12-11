@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/surge"
 )
 
 // Constants represent the length of the variables.

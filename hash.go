@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/renproject/surge"
+	"github.com/muirglacier/surge"
 )
 
 // SizeHintHash is the number of bytes required to represent a Hash in binary.
