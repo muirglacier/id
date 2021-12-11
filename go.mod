@@ -3,10 +3,11 @@ module github.com/muirglacier/id
 go 1.14
 
 require (
-	github.com/btcsuite/btcd v0.20.1-beta // indirect
-	github.com/ethereum/go-ethereum v1.9.5
-	github.com/onsi/ginkgo v1.12.3
+	github.com/btcsuite/btcd v0.22.0-beta // indirect
+	github.com/ethereum/go-ethereum v1.10.13
+	github.com/muirglacier/surge v1.2.8
+	github.com/onsi/ginkgo v1.14.0
 	github.com/onsi/gomega v1.10.1
-	github.com/muirglacier/surge v1.2.2
-	golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79 // indirect
+	golang.org/x/crypto v0.0.0-20211209193657-4570a0811e8b // indirect
+	golang.org/x/sys v0.0.0-20211210111614-af8b64212486 // indirect
 )
